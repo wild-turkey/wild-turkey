@@ -7,14 +7,20 @@
 - HanYang Financial Engineering HYFE, Quant team (2021.09 ~ 2022.09)
 - Woori FIS Academy (2024.12 ~)
 
-<br>
-Visit my LinkedIn!
-<br>
-<p>
-  <a href="https://www.linkedin.com/in/jihoon-kim-a76136244/" rel="nofollow noreferrer">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+
+<p style="display: flex; align-items: center; gap: 10px;">
+  <a href="https://www.linkedin.com/in/jihoon-kim-a76136244/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
+  <strong style="line-height: 48px;">Visit my LinkedIn!</strong> 
 </p>
+
+
+
+
+
+
+
 
 
 ## Now I'm learning ...
