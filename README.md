@@ -1,4 +1,7 @@
 ## Hi 👋 I'm Jihoon
+
+👨🏻‍💻 I am intersted in using development skills to improve finance operations
+
 - Hanyang University, Department of Information System (2019.03 ~ )
 - Softbank Ventures Asia, Fund Operations (2023.01 ~ 2023.06)
 - HanYang Financial Engineering HYFE, Quant team (2021.09 ~ 2022.09)
