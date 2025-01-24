@@ -2,6 +2,7 @@
 - Hanyang University, Department of Information System (2019.03 ~ )
 - Softbank Ventures Asia, Fund Operations (2023.01 ~ 2023.06)
 - HanYang Financial Engineering HYFE, Quant team (2021.09 ~ 2022.09)
+- Woori FIS Academy (2024.12 ~)
 
 <br>
 Visit my LinkedIn!
