@@ -1,10 +1,12 @@
 ## Hi 👋 I'm Jihoon
-- Hanyang University, Department of Information System (2019.03 ~ )
+- Hanyang University, Department of Information Systems (2019.03 ~ )
 - Softbank Ventures Asia, Fund Operations (2023.01 ~ 2023.06)
 - HanYang Financial Engineering HYFE, Quant team (2021.09 ~ 2022.09)
 
-
-Visit my LinkedIn! <p>
+<br>
+Visit my LinkedIn!
+<br>
+<p>
   <a href="https://www.linkedin.com/in/jihoon-kim-a76136244/" rel="nofollow noreferrer">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -14,7 +16,7 @@ Visit my LinkedIn! <p>
 ## Now I'm learning ...
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
   
- <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
+ <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/DBeaver-5C6BC0?style=for-the-badge&logo=DBeaver&logoColor=white"> <img src="https://img.shields.io/badge/VirtualBox-42A5F5?style=for-the-badge&logo=VirtualBox&logoColor=white">
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 
