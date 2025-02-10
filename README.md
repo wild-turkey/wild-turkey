@@ -40,7 +40,7 @@
 | 4Regexers   | Scenario-based learning tool using regular expression                                           | MySQL, DBeaver               | [4Regexers](https://github.com/4Regexers/4Regexers) |
 | PersonIn8   | Analyzing stock & future prices based on crawled news using ELK & Python                        | Linux, ELK, MySQL            | [PersonIn8](https://github.com/PersonIn8/PersonIn8) |
 | LinuxELK    | Presenting a new business model using real-world data                                           | Linux, ELK                   | [LinuxELK](https://github.com/PersonIn8/LinuxELK) |
-| Trot_Master    | Trot community for 5060                                           | Java, Servlet, HTML, CSS                   | [Trot_Master][(https://github.com/PersonIn8/LinuxELK](https://github.com/PersonIn8/Trot_Master) |
+| Trot_Master    | Trot community for 5060                                           | Java, Servlet, HTML, CSS                   | [Trot_Master](https://github.com/PersonIn8/LinuxELK])|(https://github.com/PersonIn8/Trot_Master) |
 
 <!--
 
