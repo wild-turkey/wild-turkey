@@ -41,7 +41,7 @@
 | PersonIn8   | Analyzing stock & future prices based on crawled news using ELK & Python                        | Linux, ELK, MySQL            | [PersonIn8](https://github.com/PersonIn8/PersonIn8) |
 | LinuxELK    | Presenting a new business model using real-world data                                           | Linux, ELK                   | [LinuxELK](https://github.com/PersonIn8/LinuxELK) |
 | Trot_Master    | Trot community for 5060                                           | Java, Servlet, HTML, CSS                   | [Trot_Master](https://github.com/PersonIn8/Trot_Master)|
-| Tech_Seminar    | Conducted Technical Seminar on JWT and Spring Security                                           | Cookie, Session, JWT, Spring Security                   | [Tech_Seminar](https://github.com/PersonIn8/Tech_Seminar_01)|
+| Tech_Seminar    | Conducted Technical Seminar on JWT and Spring Security                                           | Cookie, Session, JWT, Spring Security                   | [Tech_Seminar](https://github.com/PersonIn8/Tech_Seminar_01)|
 
 <!--
 
